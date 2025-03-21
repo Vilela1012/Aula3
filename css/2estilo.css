@@ -1,4 +1,5 @@
-{
+*
+ {
   margin: 0;
   padding: 0;
  }
@@ -11,7 +12,7 @@
 
 header {
   color: rgb(10, 6, 0);
-  width: 90%;
+  width: 98%;
   height: 200px;
   padding-left: 1%;
   padding-right: 1%;
@@ -36,8 +37,8 @@ background-color: rgb(134, 145, 48);
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 padding-top: 1%;
 width: 98%;
-    padding-left: 1%;
-    padding-right: 1%;
+    padding-left: 5%;
+    padding-right: 90%;
 
 
   }
